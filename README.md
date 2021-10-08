@@ -19,3 +19,6 @@ The rest of the code is organized as follows:
 - Confidence intervals for both rewards and transition probabilities are computed using classes in ConfidenceBounds.py.
 
 - Different versions of EVI are implemented using classes in ExtendedValueIteration.py.
+
+
+The code is based on https://github.com/aig-upf/dbn-ucrl.
